@@ -1,8 +1,8 @@
-# Introduction
+## Introduction
 
 This is a repository for Red Giraffe, a movie review website
 
-Instructions
+## Instructions
 
 * Clone this Repo to your local machine
 * Change into the movie review directory
