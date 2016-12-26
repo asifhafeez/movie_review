@@ -1,28 +1,19 @@
-== README
+# Introduction
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a repository for Red Giraffe, a movie review website
 
-Things you may want to cover:
+Instructions
 
-* Ruby version
+* Clone this Repo to your local machine
+* Change into the movie review directory
+* run bundle install
+* Use the following command to launch the server: rails server
+* The server is hosted on localhost:3000
 
-* System dependencies
+## Analysis
 
-* Configuration
+After watching [this](https://www.youtube.com/watch?v=0DR5JLZ2Qgg&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=5) video, I tried my hardest to replicate the site [Mackenzie Child](https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQ) had built. This was the first Rails project I took on and it was a lot of hard work because I did not know any Ruby. As a matter of fact, I didn't know what I was doing half of the time.
 
-* Database creation
+I did not test this project. However I learnt so much that I decided to include it in my portfolio. Firstly, I saw the work that goes into creating a web application from scratch, as well as the problems that can be encountered when coding. Secondly, this project inspired me to continue my learning and eventually apply to Makers Academy. 
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Furthermore, I was very happy with the end result. The site includes the ability to add movies, review them, user log in, average review score and even a search function. I would really like to come back to this project and expand it further in the future, as well as fix the styling on some of the buttons and pages.
